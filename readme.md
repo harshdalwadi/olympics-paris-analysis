@@ -35,7 +35,7 @@ Deliverables include **interactive dashboards** and a **final infographic**, dem
 ![Dashboard Overview](images/Page1.png)
 
 ### Dashboard – Athlete Demographics & Participation
-![Dashboard Demographics](images/Page2.png)
+![Dashboard Demographics](images/page2.png)
 
 ### Medal Distribution by Age Group
 ![Age Group](images/age_group.png)
