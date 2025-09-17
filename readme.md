@@ -37,14 +37,6 @@ Deliverables include **interactive dashboards** and a **final infographic**, dem
 ### Dashboard – Athlete Demographics & Participation
 ![Dashboard Demographics](images/page2.png)
 
-### Medal Distribution by Age Group
-![Age Group](images/age_group.png)
-
-### Medal Counts by Type
-![Gold Medals](images/gold_medals.png)  
-![Silver Medals](images/silver_medals.png)  
-![Bronze Medals](images/bronze_medals.png)
-
 ### World Participation Map
 ![World Map](images/world_map.png)
 
